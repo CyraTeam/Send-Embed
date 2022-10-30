@@ -1,6 +1,6 @@
 {
   "name": "send-embed",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "send embed message more easy using send-embed",
   "main": "index.js",
   "scripts": {
