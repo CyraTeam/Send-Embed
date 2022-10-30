@@ -15,3 +15,21 @@
 
 # Send-Embed
 send embed message more easy using send-embed
+
+# Installation
+```npm
+$ npm i send-embed@latest
+```
+
+# Requirements
+[discord.js]() v13
+
+# Quick Start
+```js
+const sendEmbed = require('send-embed');
+
+const embed = new sendEmbed({
+
+})
+message.channel.send(embed);
+```

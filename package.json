@@ -1,8 +1,8 @@
 {
   "name": "send-embed",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "send embed message more easy using send-embed",
-  "main": "index.js",
+  "main": "./src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -16,5 +16,14 @@
   "bugs": {
     "url": "https://github.com/CyraTeam/Send-Embed/issues"
   },
-  "homepage": "https://github.com/CyraTeam/Send-Embed#readme"
+  "homepage": "https://github.com/CyraTeam/Send-Embed#readme",
+  "dependencies": {
+    "discord.js": "^13.12.0"
+  },
+  "devDependencies": {
+    
+  },
+  "engines": {
+    "node": ">=16.9.0"
+  }
 }
