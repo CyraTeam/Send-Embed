@@ -22,7 +22,8 @@ $ npm i send-embed@latest
 ```
 
 # Requirements
-[discord.js]() v13
+- [Node.js](https://nodejs.org) 16.9.0 or higher
+- [discord.js](https://discord.js.org) v13
 
 # Quick Start
 ```js
@@ -30,6 +31,6 @@ const sendEmbed = require('send-embed');
 
 const embed = new sendEmbed({
 
-})
+});
 message.channel.send(embed);
 ```

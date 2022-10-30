@@ -10,7 +10,11 @@
     "type": "git",
     "url": "git+https://github.com/CyraTeam/Send-Embed.git"
   },
-  "keywords": [],
+  "keywords": [
+    "embed",
+    "send embed",
+    "discord"
+  ],
   "author": "brokenedtzjs",
   "license": "ISC",
   "bugs": {
