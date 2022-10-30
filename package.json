@@ -1,0 +1,20 @@
+{
+  "name": "send-embed",
+  "version": "1.0.0",
+  "description": "send embed message more easy using send-embed",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CyraTeam/Send-Embed.git"
+  },
+  "keywords": [],
+  "author": "brokenedtzjs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CyraTeam/Send-Embed/issues"
+  },
+  "homepage": "https://github.com/CyraTeam/Send-Embed#readme"
+}
